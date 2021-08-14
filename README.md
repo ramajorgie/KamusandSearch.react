@@ -1,0 +1,2 @@
+# KamusandSearch.satts
+ Tahap awal
